@@ -5,7 +5,7 @@ git status
 git add .
 
 git status
-git commit -m "index.html file added"
+git commit -m "index.html file updated"
 
 git status
 git push --set-upstream origin develop
